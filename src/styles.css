@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #18181B;
+    color: white;
+    
+}
+
+body p {
+    color: white;
+}
+
+.text-muted {
+    color: white !important;
+}
+
+.card-title, .card-text {
+    color: black;
+}
